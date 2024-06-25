@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mayukhbaruah1" target="blank"><img src="https://img.shields.io/twitter/follow/mayukhbaruah1?logo=twitter&style=for-the-badge" alt="mayukhbaruah1" /></a> </p>
 
-- 🌱 I’m currently learning *python,pandas,Numpy,skLearn etc*
+- 🌱 I’m currently learning -> **Machine Learning , Deeplearning**
 
 - 📫 How to reach me *mayukhbaruah91@gmail.com*
 
