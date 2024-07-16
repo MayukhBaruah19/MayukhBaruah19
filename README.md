@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning -> **Machine Learning , Deeplearning**
+- 🌱 I’m currently learning -> **Machine Learning , Deep Learning , Artificial Intelligence**
 
 - 📫 How to reach me **mayukhbaruah91@gmail.com**
 
